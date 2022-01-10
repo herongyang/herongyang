@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @herong
-- 👀 I’m interested in AI, Bigdata, Cryptography, Match, Programming, Physics
+- 👀 I’m interested in AI, Bigdata, Cryptography, Math, Programming, Physics
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on any projects in above areas
 - 📫 To reach me, visit https://herongyang.com
